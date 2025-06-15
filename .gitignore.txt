@@ -1,0 +1,18 @@
+# Ignore Python/Flask stuff
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+
+# Ignore React stuff
+node_modules/
+build/
+dist/
+
+# Ignore virtual envs
+.venv/
+.env/
+
+# Ignore cache files
+.DS_Store
+*.log
