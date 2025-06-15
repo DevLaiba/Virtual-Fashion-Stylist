@@ -1,4 +1,4 @@
-# 👗 Virtual Fashion Stylist AI
+# Virtual Fashion Stylist
 
 An AI-powered fashion recommendation system that suggests personalized outfits based on the user's **age**, **gender**, and **fashion preferences**. Built with **Flask**, **React**, and **Deep Learning** models.
 
